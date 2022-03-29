@@ -1,0 +1,9 @@
+condition,abbreviation,BGS,PSA,price_multiplier
+mint,m,9,9,1.25
+near mint,nm,8,8,1
+excellent,ex,7,7,0.85
+fine,fn,?,?,0.75
+good,gd,?,?,0.6
+lightly played,lp,?,?,0.4
+played,pl,?,?,0.3
+poor,pr,?,?,0.15
